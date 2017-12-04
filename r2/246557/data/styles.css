@@ -109,10 +109,16 @@
 .radio_button {
   text-align:left;
 }
+.table_cell {
+}
 .icon {
 }
 .flow_shape {
 }
 .image1 {
+  color:#000000;
+}
+.image2 {
+  font-size:13px;
   color:#000000;
 }
