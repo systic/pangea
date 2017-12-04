@@ -1,0 +1,14 @@
+Note:
+Hi! I have implemented the feedback given and included the screens for the admin flows, as well as adding a new property on the platform. Have also provided the interactions for notifications that you can see once you login to the platform. Changed the graphic for crowd sale to a pie chart rather than the loader style. 
+
+Hope you like my submission! 
+
+Best,
+Mishq
+
+Fonts:
+
+
+Stock Arts:
+
+

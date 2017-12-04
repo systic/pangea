@@ -1,0 +1,13 @@
+Note:
+Hi! Here are some notes about my prototype:
+Error page is accessible through the View More button in the testimonials section on the home page
+I have given an idea of what the KYC Process error can look like when a user logs in, however, for the purpose of this prototype you can still click on login to see the portfolio details within. Status of KYC is also on Portfolio, I have included all possible cards in portfolio - based on user actions they may only see a few.
+
+Hope you like my work!
+
+Fonts:
+
+
+Stock Arts:
+
+
